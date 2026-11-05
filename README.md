@@ -46,7 +46,7 @@ Adatkezelő: Zanathy Marcell
 
 Kapcsolat: mzanathy@gmail.com
 
-Ha bármilyen kérdésed van ezzel az Adatvédelmi Nyilatkozattal kapcsolatban, vedd fel velünk a kapcsolatot:
+Ha bármilyen kérdésed van ezzel az Adatvédelmi Nyilatkozattal kapcsolatban, vedd fel velünk a kapcsolatot.
 
 A FloraFix ("mi") elkötelezett a felhasználók magánéletének védelme mellett. Ez az Adatvédelmi Nyilatkozat ismerteti, hogyan kezeljük az adataidat a FloraFix mobilalkalmazás használata során.
 
