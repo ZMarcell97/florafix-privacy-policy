@@ -6,7 +6,6 @@ Data Controller: Marcell Zanathy
 
 Contact: mzanathy@gmail.com
 
-If you have any questions about this Privacy Policy, you can contact us.
 
 FloraFix ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use the FloraFix mobile application.
 
@@ -46,7 +45,6 @@ Adatkezelő: Zanathy Marcell
 
 Kapcsolat: mzanathy@gmail.com
 
-Ha bármilyen kérdésed van ezzel az Adatvédelmi Nyilatkozattal kapcsolatban, vedd fel velünk a kapcsolatot.
 
 A FloraFix ("mi") elkötelezett a felhasználók magánéletének védelme mellett. Ez az Adatvédelmi Nyilatkozat ismerteti, hogyan kezeljük az adataidat a FloraFix mobilalkalmazás használata során.
 
