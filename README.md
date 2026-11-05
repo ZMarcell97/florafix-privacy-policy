@@ -1,6 +1,11 @@
 # Privacy Policy for FloraFix
 
-Last updated: September 05, 2026
+Last updated: November 05, 2026
+
+Data Controller: Marcell Zanathy
+
+Contact: mzanathy@gmail.com
+If you have any questions about this Privacy Policy, you can contact us.
 
 FloraFix ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use the FloraFix mobile application.
 
@@ -20,14 +25,26 @@ To provide plant diagnostic features, selected images and optional user text not
 ## 4. Local Data Storage
 All analysis history, diagnostic results, and app preferences are stored locally on your device. You can clear this data at any time by uninstalling the application or clearing the application storage in your device settings.
 
-## 5. Contact Us
-If you have any questions about this Privacy Policy, you can contact us at:
-- Email: mzanathy@gmail.com
+## 5. Children's Privacy
+FloraFix is not directed to children  under age of 13, and we do not knowingly collect personal data from children.
+
+## 6. User Rights
+Since FloraFix does not collect personal data or store user accounts on external servers, there are no personal profiles to access, modify, or delete remotely. Users can erase all local data at any time by uninstalling the application or clearing local storage in device settings.
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted directly on this page.
+
 
 
 - # Adatvédelmi Nyilatkozat a FloraFix Alkalmazáshoz
 
-Utolsó frissítés: 2026. szeptember 05.
+Utolsó frissítés: 2026. November 05.
+
+Adatkezelő: Zanathy Marcell
+
+Kapcsolat: mzanathy@gmail.com
+Ha bármilyen kérdésed van ezzel az Adatvédelmi Nyilatkozattal kapcsolatban, vedd fel velünk a kapcsolatot:
 
 A FloraFix ("mi") elkötelezett a felhasználók magánéletének védelme mellett. Ez az Adatvédelmi Nyilatkozat ismerteti, hogyan kezeljük az adataidat a FloraFix mobilalkalmazás használata során.
 
@@ -47,6 +64,12 @@ A növénydiagnosztikai funkció biztosításához a kiválasztott képeket és 
 ## 4. Helyi adattárolás
 Minden elemzési előzmény, diagnosztikai eredmény és alkalmazásbeállítás kizárólag a készüléked helyi tárhelyén tárolódik. Ezeket az adatokat bármikor törölheted az alkalmazás eltávolításával vagy az alkalmazás tárhelyének törlésével a készülék beállításaiban.
 
-## 5. Kapcsolat
-Ha bármilyen kérdésed van ezzel az Adatvédelmi Nyilatkozattal kapcsolatban, vedd fel velünk a kapcsolatot:
-- E-mail: mzanathy@gmail.com
+## 5. Gyermekek adatvédelme
+Az alkalmazás nem címezhető kifejezetten 13 éven aluli gyermekek számára, és tudatosan nem gyűjtünk adatokat tőlük.
+
+## 6. Az érintettek jogai
+Mivel az alkalmazás nem hoz létre felhasználói fiókokat és nem tárol személyes adatokat a szervereinken, nincsenek központilag törölhető vagy módosítható felhasználói profilok. A helyi elemzési előzményeket a felhasználó bármikor törölheti az alkalmazás tárhelyének ürítésével vagy az alkalmazás eltávolításával.
+
+## 7. Az Adatvédelmi Nyilatkozat módosítása
+
+Fenntartjuk a jogot a jelen nyilatkozat frissítésére. Az aktuális verzió mindig elérhető ezen a weboldalon.
