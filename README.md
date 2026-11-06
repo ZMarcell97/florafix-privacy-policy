@@ -1,10 +1,10 @@
 # Privacy Policy for FloraFix
 
-Last updated: November 05, 2026
+Last updated: November 06, 2026
 
 Data Controller: Marcell Zanathy
 
-Contact: mzanathy@gmail.com
+Contact: florafix.support@gmail.com
 
 
 FloraFix ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use the FloraFix mobile application.
@@ -39,11 +39,11 @@ We may update our Privacy Policy from time to time. Any changes will be posted d
 
 - # Adatvédelmi Nyilatkozat a FloraFix Alkalmazáshoz
 
-Utolsó frissítés: 2026. November 05.
+Utolsó frissítés: 2026. November 06.
 
 Adatkezelő: Zanathy Marcell
 
-Kapcsolat: mzanathy@gmail.com
+Kapcsolat: florafix.support@gmail.com
 
 
 A FloraFix ("mi") elkötelezett a felhasználók magánéletének védelme mellett. Ez az Adatvédelmi Nyilatkozat ismerteti, hogyan kezeljük az adataidat a FloraFix mobilalkalmazás használata során.
